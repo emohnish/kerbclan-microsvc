@@ -1,0 +1,7 @@
+Flask==1.0.2
+pypyodbc
+gunicorn
+azure-identity
+azure-keyvault
+azure-keyvault-secrets
+psycopg2-binary
